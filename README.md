@@ -111,7 +111,7 @@ Special thanks
 
 Customer
 - 
-* Kakaobank
+* Kakaobank(https://www.kakaobank.com/)
 * LOEN ENTERTAINMENT(http://www.melon.com/)
 * 동아닷컴(http://www.donga.com/)
 * 두레시닝(주)(http://www.doore.co.kr/)
